@@ -273,7 +273,8 @@ function App() {
             Bu dosya, yerel demo adresini açıp (127.0.0.1:5173) F8 ve F9 tuşlarıyla senaryoyu otomatik ilerleten
             eğitim amaçlı örnek bir HID/klavye akışıdır. Gerçek sisteme etkide bulunmaz.
           </p>
-        </div>`r`n      </header>
+        </div>
+      </header>
 
       <main className="mx-auto w-full max-w-[1400px] space-y-4">
         <section className="rounded-xl border border-slate-300 bg-white p-4 shadow-sm">
@@ -338,6 +339,7 @@ function App() {
 }
 
 export default App;
+
 
 
 
