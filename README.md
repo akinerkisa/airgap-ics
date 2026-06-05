@@ -1,4 +1,7 @@
-﻿# Air-Gap OT/ICS Güvenlik Simülasyonu
+# Moved and merged with https://github.com/akinerk/renikApp
+ 
+ 
+ # Air-Gap OT/ICS Güvenlik Simülasyonu
 
 ## Projenin Amacı
 Bu proje, internetten izole (air-gap) kabul edilen OT/ICS ortamlarda fiziksel erişim, USB/HID sınıfı cihazlar, bakım süreçleri ve mühendislik istasyonu üzerinden oluşabilecek riskleri eğitim amaçlı olarak simüle eder.
